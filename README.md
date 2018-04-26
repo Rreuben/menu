@@ -7,7 +7,7 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 ## Description
-{This is a remastered version of the Menu Restaurant. It includes fixed and edited areas with more stylesheets.}
+{This is a remastered version of the Menu Restaurant. It includes fixed and edited areas with more animation!}
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
