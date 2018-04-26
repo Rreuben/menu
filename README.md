@@ -1,13 +1,13 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-# {Portfolio Landing Page}
-#### {This is a website for any if all information about me}, {Tuesday, 24th April 2018}
+# {Menu Restaurant Website}
+#### {This is the remastered version of Menu Restaurant}, {Tuesday, 28th April 2018}
 #### By **{ Rreuben }**
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 ## Description
-{This website is about Rreuben and features his recent projects.}
+{This is a remastered version of the Menu Restaurant. It includes fixed and edited areas with more stylesheets.}
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -26,11 +26,15 @@
 ## Known Bugs
 {There are no known bugs.}
 ## Technologies Used
-{This website was written with **Atom**. HTML is the main language and CSS is the only style tool used.}
+{This website was written with **Atom**. HTML, CSS, and Javascript have been used to structure this website.}
 ## Support and contact details
 {If you come across any problem feel free to contact me and here on the site.}
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+## Link to the live site
+*{Put link here}*
+
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 ### License
