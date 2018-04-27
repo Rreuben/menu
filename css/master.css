@@ -58,9 +58,6 @@ input.emailBox {
   opacity: 0.25;
   padding: 3px;
 }
-input[ type=text ] {
-  color: white;
-}
 button {
   background-color: #F15A29;
   border: none;
