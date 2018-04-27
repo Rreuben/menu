@@ -1,19 +1,24 @@
+.container-fluid {
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0;
+  width: 100%;
+}
 .landing img {
   width: 100%;
 }
+.logo1 img {
+  position: absolute;
+  margin-left: 40.8%;
+  top: 20%;
+}
 .bannerText {
   top: 60%;
-  margin-left: 38.52%;
+  margin-left: 36.7%;
   position: absolute;
   text-align: center;
   color: white;
-  font-family: 'Playfair Display', serif; 
-
-}
-.logo1 {
-  position: absolute;
-  margin-left: 42.5%;
-  top: 20%;
+  font-family: 'Playfair Display', serif;
 }
 
 
@@ -25,6 +30,27 @@
 
 
 
+
+
+
+
+
+
+
+
+
+.subscribe {
+  background-image: url(../images/backgrounds/subscribe.jpg);
+  background-size: cover;
+  padding-bottom: 50px;
+  padding-top: 50px;
+  text-align: center;
+}
+.subscribe p {
+  color: white;
+  font-family: 'Cantarell', sans-serif;
+  font-size: 15px;
+}
 
 
 
@@ -33,13 +59,16 @@
 
 
 .footer {
-  position: fixed;
+  height: 100%;
+  position: sticky;
   left: 0;
   bottom: 0;
   width: 100%;
   background-color: #F15A29;
   color: white;
   text-align: center;
+  padding-bottom: 15px;
+  padding-top: 15px;
 }
 .footer h5 img {
   margin: 0 5px 2.5px 0;
