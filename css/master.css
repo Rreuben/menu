@@ -1,4 +1,4 @@
-.image img {
+.landing img {
   width: 100%;
 }
 .bannerText {
@@ -7,6 +7,7 @@
   position: absolute;
   text-align: center;
   color: white;
+  font-family: 'Playfair Display', serif; 
 
 }
 .logo1 {
@@ -29,7 +30,7 @@
 
 
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 
 .footer {
   position: fixed;
