@@ -42,6 +42,7 @@
 .subscribe {
   background-image: url(../images/backgrounds/subscribe.jpg);
   background-size: cover;
+  font-size: 15px;
   padding-bottom: 50px;
   padding-top: 50px;
   text-align: center;
@@ -49,7 +50,26 @@
 .subscribe p {
   color: white;
   font-family: 'Cantarell', sans-serif;
-  font-size: 15px;
+}
+input.emailBox {
+  border: none;
+  border-radius: 2.5px;
+  display: inline-block;
+  opacity: 0.25;
+  padding: 3px;
+}
+input[ type=text ] {
+  color: white;
+}
+button {
+  background-color: #F15A29;
+  border: none;
+  border-radius: 2.5px;
+  color: white;
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  padding: 3px;
 }
 
 
