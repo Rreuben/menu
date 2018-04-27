@@ -27,6 +27,17 @@
   color: white;
   text-align: center;
 }
+.footer h5 img {
+  margin: 0 5px 2.5px 0;
+  height: 18px;
+}
+.footer h5 {
+  font-family: 'Roboto Slab', serif;
+  font-size: 17px;
+}
+.footer p {
+  font-size: 14px;
+}
 .fa {
   position: relative;
   width: 26px;
