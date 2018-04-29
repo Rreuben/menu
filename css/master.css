@@ -1,3 +1,5 @@
+/*This is the banner section below*/
+
 .container-fluid {
   padding-left: 0;
   padding-right: 0;
@@ -37,7 +39,7 @@
 
 
 
-
+/*This is the subscribe section below*/
 
 .subscribe {
   background-image: url(../images/backgrounds/subscribe.jpg);
@@ -52,11 +54,18 @@
   font-family: 'Cantarell', sans-serif;
 }
 input.emailBox {
+  background-color: darkgrey;
   border: none;
   border-radius: 2.5px;
   display: inline-block;
   opacity: 0.25;
   padding: 3px;
+}
+input::placeholder {
+  color: #fff;
+  font-size: 10px;
+  padding: 7px;
+  opacity: 1.00;
 }
 button {
   background-color: #F15A29;
@@ -69,11 +78,7 @@ button {
   padding: 3px;
 }
 
-
-
-
-
-
+/*This is the footer below*/
 
 .footer {
   height: 100%;
