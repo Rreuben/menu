@@ -15,19 +15,15 @@
   <body>
     <div class="container-fluid">
       <div class="banner">
-        <nav role="navigation">
-          <div id="menuToggle">
-            <input type="checkbox" />
-            <span></span>
-            <span></span>
-            <span></span>
-            <ul id="menu">
-              <a href="#"><li>Contacts</li></a>
-              <a href="#"><li>Events</li></a>
-              <a href="#"><li>Menu</li></a>
-            </ul>
+        <div id="myNav" class="overlay">
+          <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+          <div class="overlay-content">
+            <a href="#">Contacts</a>
+            <a href="#">Events</a>
+            <a href="#">Menu</a>
           </div>
-        </nav>
+        </div>
+        <span class="menuBtn" style="font-size:45px; cursor:pointer" onclick="openNav()">&#9776;</span>
         <div class="bannerText">
           <h1>We Provide The Best Food<br>At The <strong>Right Price</strong></h1>
         </div>
