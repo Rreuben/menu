@@ -91,7 +91,6 @@
   color: #fff;
 }
 
-
 /* This is the fast food section below */
 
 .fst-content {
@@ -120,6 +119,20 @@
   font-size: 18px;
   padding-top: 3.5px;
 }
+
+
+
+/* This is the food & drinks menu section below  */
+.menu-content {
+  background-image: url(../images/backgrounds/foodsBg.jpg);
+  background-size: cover;
+  height: 599px;
+}
+#menu-well {
+  background: #fff;
+}
+
+
 
 /* This is the customer and about section below */
 
@@ -150,8 +163,6 @@
 .cstmr-imgs img {
   padding: 4.5px;
 }
-
-
 
 /*This is the subscribe section below*/
 
