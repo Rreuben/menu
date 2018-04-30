@@ -120,9 +120,8 @@
   padding-top: 3.5px;
 }
 
-
-
 /* This is the food & drinks menu section below  */
+
 .menu-content {
   background-image: url(../images/backgrounds/foodsBg.jpg);
   background-size: cover;
@@ -138,18 +137,7 @@
 }
 .mn-footer {
   color: #F15A29;
-  height: 0;
 }
-
-
-
-
-
-
-
-
-
-
 
 /* This is the customer and about section below */
 
@@ -260,15 +248,4 @@ button[ type="button" ] {
   font-family: 'Open Sans Condensed', sans-serif;
   font-weight: 300;
   font-size: 15px;
-}
-
-@media screen and (max-height: 450px) {
-  .overlay a {
-    font-size: 20px;
-  }
-  .overlay .closebtn {
-    font-size: 40;
-    right: 15px;
-    top: 35px;
-  }
 }
