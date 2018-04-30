@@ -24,8 +24,7 @@
 /* This is the burger menu section */
 
 .overlay {
-  background-color: rgb(0, 0, 0);
-  background-color: rgba(0, 0, 0, 0.9);
+  background-color: #F15A29;
   height: 100%;
   left: 0;
   position: fixed;
@@ -44,7 +43,7 @@
   width: 100%;
 }
 .overlay a {
-  color: #fff;
+  color: black;
   display: block;
   font-size: 30px;
   padding: 10px;
@@ -52,7 +51,7 @@
   transition: 0.5s;
 }
 .overlay a:hover, .overlay a:focus {
-  color: #F15A29;
+  color: #fff;
 }
 .overlay .closeBtn {
   font-size: 60px;
