@@ -14,7 +14,7 @@
 }
 .bannerText {
   top: 60%;
-  margin-left: 37.7%;
+  margin-left: 37.9%;
   position: absolute;
   text-align: center;
   color: white;
@@ -46,7 +46,7 @@
 .overlay a {
   color: #fff;
   display: block;
-  font-size: 35px;
+  font-size: 30px;
   padding: 10px;
   text-decoration: none;
   transition: 0.5s;
@@ -91,11 +91,46 @@
   color: #fff;
 }
 
+
+/* This is the fast food section below */
+
+.fst-content {
+  padding: 6.5%;
+}
+.fstFood {
+  padding: 3.5%;
+}
+.fstDrink {
+  padding: 3.5%;
+}
+.fstImgs {
+  border: 20px solid #fff;
+  box-shadow: 10px 10px 10px 0 rgba(0, 0, 0, 0.3);
+  height: 440px;
+  width: 540px;
+}
+.fstTxt h1, h2 {
+  font-family: 'Playfair Display', serif;
+  font-weight: 250;
+}
+.fstTxt h1 {
+  font-weight: 500;
+}
+.fstTxt p {
+  font-size: 18px;
+  padding-top: 3.5px;
+}
+
+
+
+
+
+
 /*This is the subscribe section below*/
 
 .subscribe {
   background-image: url(../images/backgrounds/subscribe.jpg);
-  background-size: cover;
+  background-size: contain;
   padding-bottom: 50px;
   padding-top: 50px;
   text-align: center;
@@ -103,21 +138,20 @@
 .subscribe p {
   color: white;
   font-family: 'Cantarell', sans-serif;
-  font-size: 25px;
+  font-size: 20px;
 }
 input[ class="emailBox" ] {
   background-color: black;
   border: none;
   border-radius: 2.5px;
   opacity: 0.5;
-  padding-right: 90px;
+  padding-right: 2.5%;
 }
 input[ placeholder="Your email" ] {
   color: #fff;
-  font-size: 20px;
-  padding-bottom: 7px;
-  padding-left: 20px;
-  padding-top: 7px;
+  font-size: 15px;
+
+  padding: 0.85%;
 }
 button {
   background-color: #F15A29;
@@ -127,11 +161,8 @@ button {
   text-align: center;
 }
 button[ type="button" ] {
-  font-size: 20px;
-  padding-bottom: 7px;
-  padding-left: 35px;
-  padding-right: 35px;
-  padding-top: 7px;
+  font-size: 15px;
+  padding: 0.8%;
 
 }
 
