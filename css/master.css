@@ -95,16 +95,16 @@
 /* This is the fast food section below */
 
 .fst-content {
-  padding: 6.5%;
+  padding: 5%;
 }
 .fstFood {
-  padding: 3.5%;
+  padding: 4.5%;
 }
 .fstDrink {
-  padding: 3.5%;
+  padding: 4.5%;
 }
 .fstImgs {
-  border: 20px solid #fff;
+  border: 25px solid #fff;
   box-shadow: 10px 10px 10px 0 rgba(0, 0, 0, 0.3);
   height: 440px;
   width: 540px;
@@ -121,8 +121,35 @@
   padding-top: 3.5px;
 }
 
+/* This is the customer and about section below */
 
-
+.cstmr-content {
+  text-align: center;
+}
+.cstmr-well {
+  border-radius: 2.5px;
+  height: 250px;
+  margin-bottom: 5%;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 5%;
+}
+#line {
+  border-right-style: groove;
+}
+.cstmr-well h2 {
+  color: #F15A29;
+  font-weight: 250;
+}
+.cstmr-well h4 {
+  font-weight: 750px;
+}
+.cstmr-well p {
+  font-size: 15px;
+}
+.cstmr-imgs img {
+  padding: 4.5px;
+}
 
 
 
