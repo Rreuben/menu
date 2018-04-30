@@ -54,7 +54,7 @@
 .overlay a:hover, .overlay a:focus {
   color: #F15A29;
 }
-.overlay .closebtn {
+.overlay .closeBtn {
   font-size: 60px;
   position: absolute;
   right: 20%;
@@ -130,7 +130,24 @@
 }
 #menu-well {
   background: #fff;
+  margin-top: 100px;
 }
+.mn-head {
+  font-family: 'Playfair Display', serif;
+  font-size: 20px;
+}
+.mn-footer {
+  color: #F15A29;
+  height: 0;
+}
+
+
+
+
+
+
+
+
 
 
 
