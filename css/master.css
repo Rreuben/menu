@@ -71,9 +71,32 @@
 .meals {
   background-color: #edede;
   font-size: 20px;
+  margin-right: 0;
   text-align: center;
 }
+.foodtop-col {
+  padding: 0;
+}
+.foodtop-col:hover .overlay-mini {
+  background: rgba(250,250,250,0.5);
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  transition: 0.5s;
+}
+.foodtop-col:hover .text {
+  color: #000000;
+}
+.img-responsive {
+  display: inline;
+  width: 100%;
+  height: 100%;
+}
 .happyHour {
+  font-family: 'Lobster', cursive;
   margin: 0;
   padding: 50px;
 }
@@ -82,6 +105,7 @@
   color: #fff;
 }
 .partyTime {
+  font-family: 'Lobster', cursive;
   margin: 0;
   padding: 50px;
 }
@@ -89,6 +113,29 @@
   background-color: #F15A29;
   color: #fff;
 }
+.overlay-mini {
+  background: rgba(0,0,0,0.0);
+  bottom: 0;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: 0;
+  transition: 0.5s;
+  width: 100%;
+}
+.text {
+  font-family: 'Lobster', cursive;
+  color: #fff;
+  font-size: 35px;
+  white-space: nowrap;
+  position: absolute;
+  padding: 16px 32px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+
 
 /* This is the fast food section below */
 
@@ -118,6 +165,17 @@
   font-size: 18px;
   padding-top: 3.5px;
 }
+.viewGal1, .viewGal2 {
+  background-color: white;
+  color: #F15A29;
+  border: 2px solid #F15A29;
+  padding: 20px;
+}
+.viewGal2 {
+  margin-left: 75%;;
+}
+
+
 
 /* This is the food & drinks menu section below  */
 
@@ -212,7 +270,6 @@ button[ type="button" ] {
 
 .footer {
   height: 100%;
-  position: sticky;
   left: 0;
   bottom: 0;
   width: 100%;
