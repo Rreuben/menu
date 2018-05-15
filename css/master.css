@@ -248,22 +248,24 @@ input[ class="emailBox" ] {
   padding-right: 2.5%;
 }
 input[ placeholder="Your email" ] {
-  color: #fff;
   font-size: 15px;
-
   padding: 0.85%;
 }
 button {
   background-color: #F15A29;
   border: none;
   border-radius: 2.5px;
-  color: white;
-  text-align: center;
 }
 button[ type="button" ] {
   font-size: 15px;
   padding: 0.8%;
-
+}
+button:hover {
+  background-color: #27ae60;
+}
+button a {
+  color: #fff;
+  text-decoration: none;
 }
 
 /*This is the footer below*/
